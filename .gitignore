@@ -1,0 +1,4 @@
+# Project exclude paths
+/nomargin.com/nomargin/.gradle/
+/nomargin.com/nomargin/build/
+/nomargin.com/nomargin/build/classes/java/main/
